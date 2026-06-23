@@ -12,11 +12,13 @@ public:
 class MyLinkedList {
 private:
     Node* head;
+    Node* tail;
     int size;
 
 public:
     MyLinkedList() {
         this->head=NULL;
+        this->tail=NULL;
         this->size=0;
     }
     
@@ -34,22 +36,18 @@ public:
     void addAtHead(int val) {
         Node* newNode = new Node(val);
         newNode->next = head;
+        if(head==NULL)tail=newNode;
         head=newNode;
         size++;
     }
     
     void addAtTail(int val) {
-        if(head==NULL || size==0){
+        if(head==NULL ){
             addAtHead(val);
             return;
         }
-
-        Node* current = head;
-        while(current != NULL && current->next != NULL){
-            current=current->next;
-        }
-        Node* newNode = new Node(val);
-        current->next = newNode;
+        tail->next=new Node(val);
+        tail=tail->next;
         size++;
     }
     
@@ -81,6 +79,21 @@ public:
         if(head==NULL)return;
         if(index<0)return;
         if(index>=size)return;
+        if(index==size-1){
+            Node* current = head;
+            Node* prev;
+            while(current!=NULL && current->next!=NULL){
+                prev=current;
+                current=current->next;
+            }
+            if(prev){
+                prev->next=NULL;
+                tail=prev;
+            }else head=prev=NULL;
+            delete current;
+            size--;
+            return;
+        }
         size--;
         if(index==0){
             Node* temp = head;
