@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
