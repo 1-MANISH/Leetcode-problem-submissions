@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
+| [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0707-design-linked-list) |
+| [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0707-design-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
