@@ -8,12 +8,12 @@
  */
 class Solution {
 public:
+    const int VISITED = 1e6;
     bool hasCycle(ListNode *head) {
-        unordered_map<ListNode*,int>m;
         ListNode* current = head;
         while(current!=NULL){
-            if(m[current])return true;
-            m[current]++;
+            if(current->val==VISITED)return true;
+            current->val=VISITED;
             current=current->next;
         }
         return false;
