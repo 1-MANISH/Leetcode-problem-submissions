@@ -1,120 +1,102 @@
-class MyLinkedList {
+class Node{
 public:
-    int val,size;
-    MyLinkedList* next;
-    MyLinkedList* tail;
-    MyLinkedList(int value=-1) {
-        this->val=value;
-        this->size=0;
-        this->next=NULL;
-        this->tail=NULL;
+    int val;
+    Node* next;
 
+    Node(int val){
+        this->val=val;
+        this->next=NULL;
+    }
+};
+
+class MyLinkedList {
+private:
+    Node* head;
+    int size;
+
+public:
+    MyLinkedList() {
+        this->head=NULL;
+        this->size=0;
     }
     
     int get(int index) {
-        int count=0;
-        MyLinkedList* current = this;
-        while(current!=NULL){
-            if(index==count)return current->val;
+        if(index>=size && index<0)return -1;
+        Node* current = head;
+        int cnt = 0 ;
+        while(cnt<index ){
             current=current->next;
-            count++;
+            cnt++;
         }
-        return -1;
+        return current? current->val:-1;
     }
     
     void addAtHead(int val) {
-        MyLinkedList* current = this;
-        this->size+=1;
-        if(current->val==-1){
-            // first node
-            current->val=val;
-            tail=current;
-            return;
-        }
-        MyLinkedList* newNode = new MyLinkedList(current->val);
-        current->val=val;
-        if(current->next==NULL){// only single node
-            current->next=newNode;
-            tail=newNode;
-        }else{// rest cases
-           MyLinkedList* temp = current->next;
-           current->next = newNode;
-           newNode->next = temp; 
-        }
+        Node* newNode = new Node(val);
+        newNode->next = head;
+        head=newNode;
+        size++;
     }
     
     void addAtTail(int val) {
-        MyLinkedList* current = this;
-        this->size+=1;
-        if(current->val==-1){//first node
-            current->val=val;
-            tail=current;
+        if(head==NULL || size==0){
+            addAtHead(val);
             return;
         }
-        MyLinkedList* newNode = new MyLinkedList(val);
-        tail->next = newNode;
-        tail=newNode;
 
+        Node* current = head;
+        while(current != NULL && current->next != NULL){
+            current=current->next;
+        }
+        Node* newNode = new Node(val);
+        current->next = newNode;
+        size++;
     }
     
     void addAtIndex(int index, int val) {
-        if(index>this->size)return;
-        MyLinkedList* current = this;
+        if(index>size)return;
+       
         if(index==0){
             addAtHead(val);
             return;
-        }else if(index==this->size){
+        }
+        if(index==size){
             addAtTail(val);
             return;
-        }else{
-            this->size+=1;
-            MyLinkedList* prev=NULL;
-            while(index>0){
-                index--;
-                prev=current;
-                current=current->next;
-            }
-            MyLinkedList* newNode = new MyLinkedList(val);
-            prev->next=newNode;
-            newNode->next=current;
-            return;
         }
-
+        size++;
+        int cnt = 0;
+        Node* current = head;
+        while(cnt<index-1){
+            current=current->next;
+            cnt++;
+        }
+        Node* newNode = new Node(val);
+        Node* temp = current->next;
+        current->next=newNode;
+        newNode->next = temp;
     }
     
     void deleteAtIndex(int index) {
-        if(index>=this->size)return;// invalid index
-        if(this->val==-1)return;// node node
-        this->size-=1;
-        if(this->next==NULL){
-            //deleting single node
-            this->val=-1;
-            tail=NULL;
+        if(head==NULL)return;
+        if(index<0)return;
+        if(index>=size)return;
+        size--;
+        if(index==0){
+            Node* temp = head;
+            head=head->next;
+            delete temp;
             return;
         }
-        MyLinkedList* current = this;
-        if(index==0){// two node over there
-            current->val=current->next->val;
-            current->next=current->next->next ?current->next->next : NULL;
-            tail= current->next ? tail : current;
-            return;
-        }
-        MyLinkedList* prev = NULL;
-        int count = 0 ;
-        while(current!=NULL && count< index){
-            prev=current;
+        Node* current = head;
+        int cnt = 0;
+        while(cnt<index-1){
             current=current->next;
-            count++;
+            cnt++;
         }
-        
-         prev->next=current ? current->next : NULL;
-        if(index==this->size || index==this->size-1){
-                if(index==this->size-1)tail=prev->next;
-                else tail=prev;
-                current->val=-1;
-            }
-            if(current)current->next=NULL;
-
+        Node* temp = current->next;
+        current->next = temp?temp->next:NULL;
+        delete temp;
     }
 };
 
