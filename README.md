@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0707-design-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0707-design-linked-list) |
 | [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
+| [0092-reverse-linked-list-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0092-reverse-linked-list-ii) |
 ## Design
 |  |
 | ------- |
