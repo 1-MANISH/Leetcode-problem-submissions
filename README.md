@@ -8,21 +8,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2364-count-number-of-bad-pairs) |
 | [0053-maximum-subarray](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
 | [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
 | [2364-count-number-of-bad-pairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2364-count-number-of-bad-pairs) |
+| [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
+| [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
 | [0075-sort-colors](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2364-count-number-of-bad-pairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2364-count-number-of-bad-pairs) |
+| [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -54,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
