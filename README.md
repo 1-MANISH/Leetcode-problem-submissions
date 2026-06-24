@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
 | [2364-count-number-of-bad-pairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2364-count-number-of-bad-pairs) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
