@@ -8,16 +8,15 @@
  */
 class Solution {
 public:
-  
+    const int VISITED = 1e6;
     bool hasCycle(ListNode *head) {
-        ListNode* slow=head;
-        ListNode* fast=head?head->next:NULL;
-        while(fast!=NULL && fast->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
-            if(slow==fast)return true;
-        }
-        return false;
-       
+        
+       ListNode* current = head;
+       while(current!=NULL){
+            if(current->val==VISITED)return true;
+            current->val=VISITED;
+            current=current->next;
+       }
+       return false;
     }
 };
