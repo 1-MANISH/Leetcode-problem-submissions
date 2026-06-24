@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2364-count-number-of-bad-pairs) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
 | [0075-sort-colors](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
