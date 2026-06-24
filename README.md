@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0041-first-missing-positive](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0041-first-missing-positive) |
+| [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
 | [0075-sort-colors](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
