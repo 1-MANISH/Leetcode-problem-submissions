@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0141-linked-list-cycle) |
 | [0092-reverse-linked-list-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0025-reverse-nodes-in-k-group](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Design
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
