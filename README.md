@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0024-swap-nodes-in-pairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [0086-partition-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0086-partition-list) |
 ## Design
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [0086-partition-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
