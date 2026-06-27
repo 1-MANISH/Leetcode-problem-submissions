@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
+| [0021-merge-two-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0021-merge-two-sorted-lists) |
 ## Design
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
+| [0021-merge-two-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
