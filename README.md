@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
 | [0021-merge-two-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
