@@ -11,19 +11,22 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode* ptr1 = new ListNode(-1),*ptr2 = new ListNode(-1),*current=head;
-        ListNode* ansHead =ptr1,*ptr2Head=ptr2;
+        ListNode* p1H = new ListNode(-1) , *p2H = new ListNode(-1) ,*p1,*p2,*current=head;
+        p1=p1H,p2=p2H;
+
         while(current!=NULL){
             if(current->val<x){
-                ptr1->next=new ListNode(current->val);
-                ptr1=ptr1->next;
+                p1->next=current;
+                p1=p1->next;
             }else{
-                ptr2->next=new ListNode(current->val);
-                ptr2=ptr2->next;
+                p2->next=current;
+                p2=p2->next;
             }
             current=current->next;
         }
-        ptr1->next=ptr2Head->next;
-        return ansHead->next;
+        p1->next=p2H->next;
+        p2->next=NULL;
+        return p1H->next;
+
     }
 };
