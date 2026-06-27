@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0041-first-missing-positive](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0138-copy-list-with-random-pointer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
 | [0021-merge-two-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0138-copy-list-with-random-pointer) |
 ## Design
 |  |
 | ------- |
