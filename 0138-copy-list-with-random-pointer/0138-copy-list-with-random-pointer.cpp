@@ -17,28 +17,39 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
+        if(head==NULL)return head;
+        
+        // 3 pass solution - without hashing/mapping
 
-        //1. mapping and copy to new nodes - shallow copy
-        unordered_map<Node*,Node*>originalToNew;
-        Node* originalCurrent=head,*copyHead=new Node(-1),*copyCurrent;
-        copyCurrent=copyHead;
+        //1.creating in house mapping - by linking
+        Node* originalCurrent=head;
         while(originalCurrent!=NULL){
-            copyCurrent->next = new Node(originalCurrent->val);
-            copyCurrent=copyCurrent->next;
-            originalToNew[originalCurrent]=copyCurrent;
-            originalCurrent=originalCurrent->next;
+            Node* originalNext = originalCurrent->next;
+            originalCurrent->next = new Node(originalCurrent->val);
+            originalCurrent->next->next=originalNext;
+            originalCurrent=originalNext;
         }
 
-        // now making random pointer to point as per original
+        //2.now linking random pointer to point as per original
         originalCurrent=head;
         while(originalCurrent!=NULL){
             if(originalCurrent->random){
-                Node* copyNode = originalToNew[originalCurrent];
-                Node* randomCopy = originalToNew[originalCurrent->random];
-                copyNode->random=randomCopy;
+               originalCurrent->next->random = originalCurrent->random->next;
             }
-            originalCurrent=originalCurrent->next;
+            originalCurrent=originalCurrent->next->next;
         }
-        return copyHead->next;
+
+        //3. now linking next pointer
+        originalCurrent=head;
+        Node* copyHead=originalCurrent->next;
+        while(originalCurrent!=NULL){
+            Node* copyCurrent = originalCurrent->next;
+            originalCurrent->next=copyCurrent->next; 
+            copyCurrent->next=originalCurrent->next?originalCurrent->next->next:NULL;
+            originalCurrent=originalCurrent->next;
+            copyCurrent=copyCurrent->next;
+        }
+
+        return copyHead;
     }
 };
