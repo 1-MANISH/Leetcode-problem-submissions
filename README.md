@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +132,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
