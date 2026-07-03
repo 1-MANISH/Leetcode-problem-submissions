@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0155-min-stack](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0155-min-stack) |
+| [0020-valid-parentheses](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0020-valid-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
