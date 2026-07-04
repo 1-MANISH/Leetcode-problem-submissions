@@ -6,10 +6,11 @@ public:
     MinStack() {
 
     }
-
     void push(int value) {
-        if(st.size()==0){st.push({value,value});return;}
-        st.push({value,min(value,getMin())});
+        if(st.empty())
+            st.push({value,value});
+        else
+            st.push({value,min(value,getMin())});
     }
 
     void pop() {
@@ -17,11 +18,11 @@ public:
     }
 
     int top() {
-        return st.top().first;
+        return st.empty()?-1: st.top().first;
     }
 
     int getMin() {
-        return st.top().second;
+        return st.empty()?-1: st.top().second;
     }
 
 };
