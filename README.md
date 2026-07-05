@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
+| [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
+| [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 ## Math
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
