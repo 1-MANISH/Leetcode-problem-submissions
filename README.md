@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
+| [0001-two-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0001-two-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0146-lru-cache) |
+| [0001-two-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0001-two-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
