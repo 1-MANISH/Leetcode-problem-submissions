@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0001-two-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0155-min-stack) |
 | [0020-valid-parentheses](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0503-next-greater-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
