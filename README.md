@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0901-online-stock-span) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
