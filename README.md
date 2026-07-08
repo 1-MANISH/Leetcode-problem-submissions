@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0001-two-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0146-lru-cache) |
 | [0001-two-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0155-min-stack](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0155-min-stack) |
 | [0020-valid-parentheses](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
