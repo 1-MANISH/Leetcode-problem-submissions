@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0155-min-stack](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0901-online-stock-span) |
+| [0232-implement-queue-using-stacks](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Merge Sort
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
+| [0232-implement-queue-using-stacks](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Sliding Window
 |  |
 | ------- |
