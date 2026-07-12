@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0739-daily-temperatures) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 ## Merge Sort
 |  |
 | ------- |
@@ -181,8 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0901-online-stock-span) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0901-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
