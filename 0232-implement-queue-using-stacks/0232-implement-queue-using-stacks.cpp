@@ -1,69 +1,39 @@
-class Node{
-    public:
-    int value;
-    Node* next;
-
-    Node(int value){
-        this->value=value;
-        this->next=NULL;
-    }
-};
-
-class LinkedList{
-    public:
-    Node* head,*tail;
-    int _size;
-
-    LinkedList(){
-        this->_size=0;
-    }
-
-    void insertAtTail(int x){
-        Node* newNode = new Node(x);
-        if(size()==0){
-            tail=head=newNode;
-        }else{
-            tail->next=newNode;
-            tail=newNode;
-        }
-        _size++;
-    }
-    int deleteAtHead(){
-        if(size()==0)return -1;
-        Node* temp = head;
-        head=head->next;
-        int value = temp->value;
-        delete temp;
-        _size--;
-        return value;
-    }
-    int size(){
-        return _size;
-    }
-};
-
-
 class MyQueue {
-    LinkedList ll;
+
 public:
+    stack<int> st1,st2;
     MyQueue() {
         
     }
     
     void push(int x) {
-        ll.insertAtTail(x);
+        st1.push(x);
     }
     
     int pop() {
-        return ll.deleteAtHead();
+        if(st2.empty()){
+            while(!st1.empty()){
+                st2.push(st1.top());
+                st1.pop();
+            }
+        }
+        int ele = st2.top();
+        st2.pop();
+        return ele;
     }
     
     int peek() {
-        return ll.size()==0?-1:ll.head->value;
+        if(st2.empty()){
+            while(!st1.empty()){
+                st2.push(st1.top());
+                st1.pop();
+            }
+        }
+        return st2.top();
     }
     
     bool empty() {
-        return ll.size()==0;
+        return st1.empty()&&st2.empty();
     }
 };
 
