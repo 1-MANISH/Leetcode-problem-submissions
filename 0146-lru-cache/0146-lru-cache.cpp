@@ -2,8 +2,8 @@ class Node
 {
     public:
         int key, value;
-    Node *prev, *next;
-    Node(int key, int value)
+        Node *prev, *next;
+        Node(int key, int value)
     {
         this->key = key;
         this->value = value;
@@ -11,10 +11,12 @@ class Node
     }
 };
 
+
+
 class LRUCache
 {
     public:
-        Node * head;	//most recent used
+    Node * head;	//most recent used
     Node * tail;	// least recent used
     unordered_map<int, Node*> mapping;	//key->Node
     int currentSize, capacity;
