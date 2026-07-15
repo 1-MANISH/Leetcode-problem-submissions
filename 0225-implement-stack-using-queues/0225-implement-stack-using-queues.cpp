@@ -1,75 +1,27 @@
-class Node{
-public:
-    int value;
-    Node* next;
-    Node(int value){
-        this->value=value;
-        this->next=NULL;
-    }
-};
-
-
-class LinkedList {
-private:
-    Node* head;
-    int size;
-public:
-    LinkedList(){
-        this->head=NULL;
-        this->size=0;
-    }
-
-    void addNode(int value){
-        Node* newNode = new Node(value);
-        newNode->next=head;
-        head=newNode;
-        size++;
-    }
-
-    int deleteNode(){
-        if(empty())return -1;
-        Node* temp = head;
-        int poppedValue=temp->value;
-        head=head->next;
-        delete temp;
-        size--;
-        return poppedValue;
-    }
-
-    int topNode(){
-        if(empty())return -1;
-        return head->value;
-    }
-
-    bool empty(){
-        return size==0;
-    }
-
-};
-
-
 class MyStack {
-private:
-    LinkedList list;
 public:
+    deque<int>dq;
     MyStack() {
         
     }
     
     void push(int x) {
-        list.addNode(x);
+        dq.push_back(x);
     }
     
     int pop() {
-        return list.deleteNode();
+        if(dq.empty())return -1;
+        int ele = dq.back();
+        dq.pop_back();
+        return ele;
     }
     
     int top() {
-        return list.topNode();
+        return dq.back();
     }
     
     bool empty() {
-        return list.empty();
+        return dq.empty();
     }
 };
 
