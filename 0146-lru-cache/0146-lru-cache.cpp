@@ -1,150 +1,96 @@
-class Node
-{
+class Node{
     public:
-        int key, value;
-        Node *prev, *next;
-        Node(int key, int value)
-    {
-        this->key = key;
-        this->value = value;
-        this->prev = this->next = NULL;
+    int key,value;
+    Node* prev,*next;
+    Node(int key,int value){
+        this->key=key;
+        this->value=value;
+        this->prev=this->next=NULL;
     }
 };
 
+class LRUCache {
+    Node* head,*tail;
+    int max_size,current_size;
+    unordered_map<int,Node*>mapping;
 
+    void deleteNode(Node* node){
+        Node* prev = node->prev;
+        Node* next = node->next;
+        if(prev!=NULL)
+            prev->next=next;
+        else
+            head=next;
+        if(next!=NULL)
+            next->prev=prev;
+        else
+            tail=prev;
 
-class LRUCache
-{
-    public:
-    Node * head;	//most recent used
-    Node * tail;	// least recent used
-    unordered_map<int, Node*> mapping;	//key->Node
-    int currentSize, capacity;
-    LRUCache(int capacity)
-    {
-        this->head = NULL;
-        this->tail = NULL;
-        this->capacity = capacity;
-        this->currentSize = 0;
+        node->prev=NULL;
+        node->next=NULL;
+        mapping.erase(node->key);
+        current_size--;
+        delete node;
     }
 
-    int get(int key)
-    {
-        auto ptr = mapping.find(key);
-        if (ptr == mapping.end()) return -1;
-        else
-        {
-            Node *node = ptr->second;
-            if (currentSize == 1 || node == head) return head->value;
-            else
-            {
-                if (node == tail)
-                {
-                    tail = node->prev;
-                    tail->next = NULL;
-                    node->next = head;
-                    head->prev = node;
-                    node->prev = NULL;
-                    head = node;
-                    return head->value;
-                }
-                else
-                {
-                    node->prev->next = node->next;
-                    node->next->prev = node->prev;
-                    node->prev = NULL;
-                    node->next = head;
-                    head->prev = node;
-                    head = node;
-                    return head->value;
-                }
-            }
+    void addNewNodeAtHead(int key,int value){
+        Node* newNode = new Node(key,value);
+        if(current_size==0){
+            head=tail=newNode;
+            mapping[key]=head;
+            current_size++;
+            return;
         }
+        newNode->next=head;
+        head->prev=newNode;
+        head=newNode;
+        mapping[key]=head;
+        current_size++;
     }
-
-    void put(int key, int value)
-    {
-        auto ptr = mapping.find(key);
-        if (ptr != mapping.end())
-        {
-            Node *node = ptr->second;
-            Node* prevNode = node->prev;
-            Node* nextNode = node->next;
-            if(capacity==1 || node==head){
-                node->value=value;
-                return;
-            }else if(node==tail){
-                prevNode->next=NULL;
-                tail=prevNode;
-                node->value=value;
-                node->prev = NULL;
-                node->next=head;
-                head->prev=node;
-                head=node;
-                return;
-            }else{
-                prevNode->next=nextNode;
-                nextNode->prev=prevNode;
-                node->prev=NULL;
-                node->next=head;
-                head->prev=node;
-                node->value=value;
-                head=node;
-                return;
-            }
-            
-            
+public:
+    LRUCache(int capacity) {
+        this->max_size=capacity;
+        this->current_size=0;
+    }
+    
+    int get(int key) {
+        if(current_size==0) return -1; // no values - empty
+        auto it = mapping.find(key);
+        if(it==mapping.end())return -1;// key not exist
+        if(it->second==head)return head->value;// head  wants then no issue - already most-recent used
+        // delete that node  - make new node and insert at head 
+        Node* nodeToDelete = it->second;
+        int value=nodeToDelete->value;
+        deleteNode(nodeToDelete);
+        addNewNodeAtHead(key,value);
+        return head->value;
+    }
+    
+    void put(int key, int value) {
+        if(current_size==0){// edge case - new node
+            addNewNodeAtHead(key,value);
+            return;
         }
-        else
-        {
-
-            if (currentSize == 1 && currentSize == capacity)
-            {
-                auto ptr = mapping.find(tail->key);
-                Node *currentNode = ptr->second;
-                mapping.erase(ptr);
-                currentNode->key = key;
-                currentNode->value = value;
-                head = tail = currentNode;
-                mapping[key] = currentNode;
-                return;
-            }
-            else if (currentSize == capacity)
-            {
-                auto ptr = mapping.find(tail->key);
-                Node *tailNode = ptr->second;
-                Node *prevNode = tailNode->prev;
-                mapping.erase(ptr);
-                Node *newNode = new Node(key, value);
-                newNode->next = head;
-                head->prev = newNode;
-                head = newNode;
-                mapping[key] = head;
-                delete tailNode;
-                prevNode->next = NULL;
-                tail = prevNode;
-                return;
-            }
-            else
-            {
-                Node *newNode = new Node(key, value);
-                newNode->next = head;
-                if (head != NULL)
-                    head->prev = newNode;
-                else
-                    tail = newNode;
-                head = newNode;
-                this->currentSize++;
-                mapping[key] = head;
-                return;
-            }
+        auto it = mapping.find(key);
+        if(it!=mapping.end()){// key_exist - overwrite or delete this one add new node at head
+            Node* nodeToDelete = it->second;
+            deleteNode(nodeToDelete);
+            addNewNodeAtHead(key,value);
+            return;
         }
+        if(current_size < max_size){// as usual insert node at head 
+            addNewNodeAtHead(key,value);
+            return;
+        }
+        // over putting -  delete least used-TAIL and insert at head
+        deleteNode(tail);
+        addNewNodeAtHead(key,value);
     }
 };
 
 /**
- *Your LRUCache object will be instantiated and called as such:
- *LRUCache* obj = new LRUCache(capacity);
- *int param_1 = obj->get(key);
- *obj->put(key,value);
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
  */
