@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0144-binary-tree-preorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -198,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
