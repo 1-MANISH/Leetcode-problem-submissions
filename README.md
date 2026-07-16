@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0739-daily-temperatures) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
+| [0031-next-permutation](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0031-next-permutation) |
 ## Math
 |  |
 | ------- |
