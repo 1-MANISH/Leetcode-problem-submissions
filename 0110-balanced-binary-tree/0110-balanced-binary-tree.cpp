@@ -11,29 +11,21 @@
  */
 class Solution {
 public:
-    int depth(TreeNode* root){
-        if(root==NULL)return 0;
-        queue<TreeNode*>q;
-        q.push(root);
-        int level=0;
-        while(!q.empty()){
-            int size = q.size();
-            while(size--){
-                TreeNode* node = q.front();
-                q.pop();
-                if(node->left!=NULL)q.push(node->left);
-                if(node->right!=NULL)q.push(node->right);
-            }
-            level++;
-        }
-        return level;
+    bool isBal(TreeNode* root,int &h){
+        if(root==NULL)return true;
+        int lh = 0, rh = 0;
+        if(!isBal(root->left,lh))return false;
+        if(!isBal(root->right, rh))return false;
+
+        h = max(lh,rh)+1;
+
+        if(abs(lh-rh)<=1)return true;
+        return false;
+
     }
     bool isBalanced(TreeNode* root) {
         if(root==NULL)return true;
-
-        int leftDepth = depth(root->left);
-        int rightDepth = depth(root->right);
-
-        return abs(leftDepth-rightDepth)<=1 && isBalanced(root->left) && isBalanced(root->right);
+        int h = 0 ;
+        return isBal(root,h);
     }
 };
