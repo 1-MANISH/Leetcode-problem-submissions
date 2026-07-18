@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0645-set-mismatch) |
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0222-count-complete-tree-nodes](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0222-count-complete-tree-nodes) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
