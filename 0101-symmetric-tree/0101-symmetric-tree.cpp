@@ -14,8 +14,7 @@ public:
 
     bool isMatcher(TreeNode* p, TreeNode* q){
         if(p==NULL && q==NULL)return true;
-        if(p!=NULL && q==NULL)return false;
-        if(p==NULL && q!=NULL)return false;
+        if((p!=NULL && q==NULL) || (p==NULL && q!=NULL))return false;
         bool m1 = isMatcher(p->left,q->right);
         bool m2 = isMatcher(p->right,q->left);
         return p->val==q->val && m1 && m2;
