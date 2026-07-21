@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0146-lru-cache) |
 | [0001-two-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
