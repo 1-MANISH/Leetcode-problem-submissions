@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -284,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
