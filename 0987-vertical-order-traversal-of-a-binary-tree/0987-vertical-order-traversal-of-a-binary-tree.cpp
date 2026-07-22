@@ -21,7 +21,6 @@ public:
         while(!q.empty()){
             auto[node,dist,level] = q.front();
             q.pop();
-            auto it = mp.find(dist);
             start = min(start,dist);
             end = max(end,dist);
             mp[dist].push_back({level,node->val});
