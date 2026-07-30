@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
