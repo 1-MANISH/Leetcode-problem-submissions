@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,4 +310,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
