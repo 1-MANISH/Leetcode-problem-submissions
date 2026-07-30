@@ -11,27 +11,24 @@
  */
 class Solution {
 public:
-    int maxer(TreeNode* root){
-        if(root==NULL)return INT_MIN;
-        int lmx = maxer(root->left);
-        int rmx = maxer(root->right);
-        return max(root->val,max(lmx,rmx));
-    }
-    int miner(TreeNode* root){
-        if(root==NULL)return INT_MAX;
-        int lmn = miner(root->left);
-        int rmn = miner(root->right);
-        return min(root->val,min(lmn,rmn));
+
+    void inOrder(TreeNode* root,vector<int>&inorder){
+        if(root==NULL)return;
+        inOrder(root->left,inorder);
+        inorder.push_back(root->val);
+        inOrder(root->right,inorder);
+
     }
     bool isValidBST(TreeNode* root) {
-        if(root==NULL)return true;
+        
+        vector<int>inorder;
+        inOrder(root,inorder);
 
-        int lmx = maxer(root->left);
-        int rmn = miner(root->right);
+        for(int i =1 ; i <inorder.size() ; i++ ){
+            if(inorder[i]<=inorder[i-1])return false;
+        }
 
-        if(root->left==NULL && root->right==NULL)return  isValidBST(root->left) && isValidBST(root->right);
-        else if(root->left==NULL && root->right!=NULL)return root->val<rmn && isValidBST(root->left) && isValidBST(root->right);
-        else if(root->left!=NULL && root->right==NULL)return root->val>lmx && isValidBST(root->left) && isValidBST(root->right);
-        else return root->val>lmx && root->val<rmn &&  isValidBST(root->left) && isValidBST(root->right);
+        return true;
+
     }
 };
