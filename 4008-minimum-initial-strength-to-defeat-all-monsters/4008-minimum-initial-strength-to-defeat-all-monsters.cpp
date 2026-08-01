@@ -1,6 +1,6 @@
 class Solution {
 public:
-     using ll = long long;
+    using ll = long long;
 
     bool possible(ll initial, vector<int>& monsters, vector<ll>& bonus) {
         ll strength = initial;
