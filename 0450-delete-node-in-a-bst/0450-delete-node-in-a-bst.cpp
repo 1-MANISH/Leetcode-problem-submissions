@@ -18,35 +18,34 @@ public:
         return root->val;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
-
-        if(root==NULL)return NULL;
-        
-        //left me chalo
-        if(root->val > key){
-            root->left = deleteNode(root->left,key);
-        }else if(root->val < key){// right me chalo
-            root->right=deleteNode(root->right,key);
-        }else{
-
-            // leaf node need to delete
-            if(root->left==NULL and root->right==NULL){
-                return NULL;
-            }
-            // node with only left
-            if(root->left!=NULL and root->right==NULL){
-                return root->left;
-            }
-            //  node with only right
-            if(root->left==NULL and root->right!=NULL){
-                return root->right;
-            }
-            // node with both - left and right
-            int mn = MIN(root->right);
-            root->val = mn;
-            // delete mx from root->left
-            root->right=deleteNode(root->right,mn);
-            
+        if(root==NULL){// key not found
+            return NULL;
         }
-        return root; 
+        if(root->val==key){
+            // case:1 | its leaf node which we trying to delete
+            if(root->left==NULL && root->right==NULL)
+                return NULL;
+
+            // case:2 | its only have left subtrees
+            if(root->left!=NULL && root->right==NULL)
+                return root->left;
+            
+            // case:3 | its only have right subtrees
+            if(root->left==NULL && root->right!=NULL)
+                return root->right;
+
+            // case:4 | its has both lefy and right
+            //option-1: finding minimum from right - swap to this node , delete this node
+            int right_min = MIN(root->right);
+            root->val =right_min;
+            root->right =  deleteNode(root->right,right_min);
+            return root;
+
+        }else if(root->val>key){
+            root->left=deleteNode(root->left,key);
+        }else if(root->val<key){
+            root->right=deleteNode(root->right,key);
+        }
+        return root;
     }
 };
