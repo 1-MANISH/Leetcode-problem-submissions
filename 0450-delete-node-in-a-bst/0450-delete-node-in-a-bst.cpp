@@ -11,9 +11,9 @@
  */
 class Solution {
 public:
-    int MIN(TreeNode* root){
-        while(root->left!=NULL){
-            root=root->left;
+    int MAX(TreeNode* root){
+        while(root->right!=NULL){
+            root=root->right;
         }
         return root->val;
     }
@@ -35,10 +35,10 @@ public:
                 return root->right;
 
             // case:4 | its has both lefy and right
-            //option-1: finding minimum from right - swap to this node , delete this node
-            int right_min = MIN(root->right);
-            root->val =right_min;
-            root->right =  deleteNode(root->right,right_min);
+            //option-1: finding max from left - swap to this node , delete this node
+            int left_max = MAX(root->left);
+            root->val =left_max;
+            root->left =  deleteNode(root->left,left_max);
             return root;
 
         }else if(root->val>key){
