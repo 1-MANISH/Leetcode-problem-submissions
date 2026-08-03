@@ -14,7 +14,7 @@ public:
     int count = 1;
     void inOrder(TreeNode* root,int &ans,int &k){
         if(root==NULL)return;
-         inOrder(root->left,ans,k);
+        inOrder(root->left,ans,k);
         if(count==k){
             ans=root->val;
         }
