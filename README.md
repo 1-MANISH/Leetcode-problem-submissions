@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0031-next-permutation) |
+| [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
+| [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [0257-binary-tree-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0257-binary-tree-paths) |
+| [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
