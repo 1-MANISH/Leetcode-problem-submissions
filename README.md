@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0146-lru-cache) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0094-binary-tree-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
