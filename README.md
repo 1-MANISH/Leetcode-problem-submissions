@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0938-range-sum-of-bst) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 ## Manacher
 |  |
 | ------- |
