@@ -11,19 +11,22 @@
  */
 class Solution {
 public:
-
-    void preOrder(TreeNode* root,vector<TreeNode*>&nodes){
+    TreeNode* tail;
+    void preOrder(TreeNode* root){
         if(root==NULL)return;
-        nodes.push_back(root);
-        preOrder(root->left,nodes);
-        preOrder(root->right,nodes);
+        TreeNode* leftTree = root->left;
+        TreeNode* rightTree = root->right;
+        if(tail==NULL)tail=root;
+        else{
+            tail->right=root;
+            tail=root;
+        } 
+        tail->left=NULL;
+        preOrder(leftTree);
+        preOrder(rightTree);
     }
     void flatten(TreeNode* root) {
-        vector<TreeNode*>nodes;
-        preOrder(root,nodes);
-        for(int  i = 0 ;  i + 1 < nodes.size() ; i++){
-            nodes[i]->left=NULL;
-            nodes[i]->right = nodes[i+1];
-        }
+        tail = NULL;
+        preOrder(root);
     }
 };
