@@ -11,31 +11,28 @@
  */
 class Solution {
 public:
-    void inOrder(TreeNode* root,vector<TreeNode*>&nodes){
+    // inorder of bst always sorted - but here 2 mismatch - at any position
+    vector<TreeNode*>nodes;
+    void inOrder(TreeNode* root){
         if(root==NULL)return;
-        inOrder(root->left,nodes);
+        inOrder(root->left);
         nodes.push_back(root);
-        inOrder(root->right,nodes);
+        inOrder(root->right);
     }
-    
     void recoverTree(TreeNode* root) {
-        vector<TreeNode*>nodes;
-        inOrder(root,nodes);
-        
-        TreeNode* a,*b =NULL;
-        for(int i = 0 ; i < nodes.size()-1;i++ ){
+        inOrder(root);
+        TreeNode* a=NULL , *b = NULL;
+        for(int i = 0 ; i+1 < nodes.size() ;i++){
             if(nodes[i]->val > nodes[i+1]->val){
                 if(a==NULL){
                     a = nodes[i];
                     b = nodes[i+1];
-                }else{
+                }
+                else{
                     b = nodes[i+1];
                 }
             }
         }
-        swap(a->val,b->val);
-
-        return;
-
+        swap(a->val,b->val);// only values 
     }
 };
