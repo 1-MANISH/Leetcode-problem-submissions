@@ -12,27 +12,25 @@
 class Solution {
 public:
     // inorder of bst always sorted - but here 2 mismatch - at any position
-    vector<TreeNode*>nodes;
+    TreeNode *a=NULL , *b = NULL, *prev = NULL;
     void inOrder(TreeNode* root){
         if(root==NULL)return;
         inOrder(root->left);
-        nodes.push_back(root);
+        if(prev!=NULL){
+            if(prev->val>root->val){
+                if(a==NULL){
+                    a = prev;
+                    b = root;
+                }else{
+                    b = root;
+                }
+            }
+        }
+        prev=root;
         inOrder(root->right);
     }
     void recoverTree(TreeNode* root) {
         inOrder(root);
-        TreeNode* a=NULL , *b = NULL;
-        for(int i = 0 ; i+1 < nodes.size() ;i++){
-            if(nodes[i]->val > nodes[i+1]->val){
-                if(a==NULL){
-                    a = nodes[i];
-                    b = nodes[i+1];
-                }
-                else{
-                    b = nodes[i+1];
-                }
-            }
-        }
         swap(a->val,b->val);// only values 
     }
 };
