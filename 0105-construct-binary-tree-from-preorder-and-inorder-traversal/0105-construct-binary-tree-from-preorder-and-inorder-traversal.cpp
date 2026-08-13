@@ -11,36 +11,30 @@
  */
 class Solution {
 public:
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
 
-        if(preorder.size()==0)return NULL;
-        
-        TreeNode* root = new TreeNode(preorder[0]);
+    TreeNode* helper(vector<int>&preorder,vector<int>&inorder,int preStart,int preEnd ,  int inStart,int inEnd){
+
+        if(preStart>preEnd)return NULL;
+        // base case
+        auto root = new TreeNode(preorder[preStart]);
 
         int idx = -1;
-        for(int i = 0 ; i< inorder.size() ;i++){
-            if(inorder[i]==preorder[0]){
-                idx = i;
+        for(int i  = inStart ; i <= inEnd ; i++){
+            if(inorder[i]==root->val){
+                idx =i;
                 break;
             }
         }
-
-        vector<int>p_order1;//[1,idx]
-        vector<int>p_order2;//[idx+1,n-1];
-        vector<int>i_order1;//[0,idx-1]
-        vector<int>i_order2;//[idx+1,n-1];
-
-        for(int i = 1 ; i<=idx;i++)p_order1.push_back(preorder[i]);
-        for(int i = idx+1;i<preorder.size();i++)p_order2.push_back(preorder[i]);
-        for(int i = 0 ; i< idx;i++)i_order1.push_back(inorder[i]);
-        for(int i = idx+1 ; i< inorder.size();i++)i_order2.push_back(inorder[i]);
-
-        TreeNode* left_tree = buildTree(p_order1,i_order1);
-        TreeNode* right_tree = buildTree(p_order2,i_order2);
-
-        root->left=left_tree;
-        root->right=right_tree;
+        int leftSubTreeSize = idx-inStart;
+        root->left = helper(preorder,inorder,preStart+1,preStart+leftSubTreeSize,inStart,idx-1);
+        root->right = helper(preorder,inorder,preStart+leftSubTreeSize+1,preEnd,idx+1,inEnd);
 
         return root;
+
+    }
+
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        int n = preorder.size();
+       return helper(preorder,inorder,0,n-1,0,n-1);
     }
 };
