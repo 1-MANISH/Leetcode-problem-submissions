@@ -11,20 +11,15 @@
  */
 class Solution {
 public:
-
+    unordered_map<int,int>mapping;//ele->index
     TreeNode* helper(vector<int>&preorder,vector<int>&inorder,int preStart,int preEnd ,  int inStart,int inEnd){
 
         if(preStart>preEnd)return NULL;
         // base case
         auto root = new TreeNode(preorder[preStart]);
 
-        int idx = -1;
-        for(int i  = inStart ; i <= inEnd ; i++){
-            if(inorder[i]==root->val){
-                idx =i;
-                break;
-            }
-        }
+        int idx = mapping[root->val];
+
         int leftSubTreeSize = idx-inStart;
         root->left = helper(preorder,inorder,preStart+1,preStart+leftSubTreeSize,inStart,idx-1);
         root->right = helper(preorder,inorder,preStart+leftSubTreeSize+1,preEnd,idx+1,inEnd);
@@ -35,6 +30,7 @@ public:
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int n = preorder.size();
-       return helper(preorder,inorder,0,n-1,0,n-1);
+        for(int i  =0 ; i< n ; i++)mapping[inorder[i]]=i;
+        return helper(preorder,inorder,0,n-1,0,n-1);
     }
 };
