@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Manacher
 |  |
 | ------- |
@@ -347,8 +351,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
