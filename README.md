@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0012-integer-to-roman](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
