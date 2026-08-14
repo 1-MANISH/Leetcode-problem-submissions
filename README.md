@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 | [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -366,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
