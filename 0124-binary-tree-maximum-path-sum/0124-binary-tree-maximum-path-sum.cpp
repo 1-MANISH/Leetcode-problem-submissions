@@ -26,7 +26,7 @@ public:
 
         Data ans;
         ans.straightPathSum = max(max(leftAns.straightPathSum,rightAns.straightPathSum)+root->val ,root->val);
-        ans.maxPathSum = max(root->val,max(max(leftAns.maxPathSum,rightAns.maxPathSum),max(leftAns.straightPathSum+rightAns.straightPathSum+root->val,max(leftAns.straightPathSum,rightAns.straightPathSum)+root->val)));
+        ans.maxPathSum = max( max(ans.straightPathSum,leftAns.straightPathSum+rightAns.straightPathSum+root->val) , max(leftAns.maxPathSum,rightAns.maxPathSum) );
 
         return ans;
     }
