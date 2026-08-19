@@ -12,17 +12,18 @@
 class Solution {
 public:
     unordered_map<int,int>mapping;//ele->index
-    TreeNode* helper(vector<int>&preorder,vector<int>&inorder,int preStart,int preEnd ,  int inStart,int inEnd){
+    TreeNode* helper(vector<int>&preorder,vector<int>&inorder,int pre_start,int pre_end ,  int in_start,int in_end){
 
-        if(preStart>preEnd)return NULL;
+        if(pre_start>pre_end)return NULL;
         // base case
-        auto root = new TreeNode(preorder[preStart]);
+        auto root = new TreeNode(preorder[pre_start]);
 
         int idx = mapping[root->val];
 
-        int leftSubTreeSize = idx-inStart;
-        root->left = helper(preorder,inorder,preStart+1,preStart+leftSubTreeSize,inStart,idx-1);
-        root->right = helper(preorder,inorder,preStart+leftSubTreeSize+1,preEnd,idx+1,inEnd);
+        int left_sub_tree_size = idx-in_start;
+
+        root->left = helper(preorder,inorder,pre_start+1,pre_start+left_sub_tree_size,in_start,idx-1);
+        root->right = helper(preorder,inorder,pre_start+left_sub_tree_size+1,pre_end,idx+1,in_end);
 
         return root;
 
