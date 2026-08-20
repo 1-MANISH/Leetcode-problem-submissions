@@ -7,13 +7,9 @@ public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int,int>freq;
         for(auto &num:nums)freq[num]++;
-        vector<Data>output;
-        for(auto [value,count]:freq)output.push_back({value,count});
-        priority_queue<Data,vector<Data>,decltype([](const Data &a,const Data &b){
-            return a.count>b.count;
-        })>minHeap;
-        for(auto &data:output){
-            minHeap.push(data);
+        priority_queue<Data,vector<Data>,decltype([](const Data &a,const Data &b){return a.count>b.count;})>minHeap;
+        for(auto [value,count]:freq){
+            minHeap.push({value,count});
             if(minHeap.size()>k){
                 minHeap.pop();
             }
