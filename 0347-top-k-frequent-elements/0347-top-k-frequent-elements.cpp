@@ -1,19 +1,27 @@
+struct Data{
+    int value,count;
+};
+
 class Solution {
 public:
-    static bool comparator(pair<int,int>&a,pair<int,int>&b){
-        return a.second>b.second;
-    }
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int,int>mapping;
-        for(auto &num:nums)mapping[num]++;
-        vector<pair<int,int>>output;
-        for(auto [element,count]:mapping){
-            output.push_back({element,count});
+        unordered_map<int,int>freq;
+        for(auto &num:nums)freq[num]++;
+        vector<Data>output;
+        for(auto [value,count]:freq)output.push_back({value,count});
+        priority_queue<Data,vector<Data>,decltype([](const Data &a,const Data &b){
+            return a.count>b.count;
+        })>minHeap;
+        for(auto &data:output){
+            minHeap.push(data);
+            if(minHeap.size()>k){
+                minHeap.pop();
+            }
         }
-        sort(output.begin(),output.end(),comparator);
         vector<int>answer;
-        for(int i = 0 ;i < k;i++){
-            answer.push_back(output[i].first);
+        while(!minHeap.empty()){
+            answer.push_back(minHeap.top().value);
+            minHeap.pop();
         }
         return answer;
     }
