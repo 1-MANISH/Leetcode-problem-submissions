@@ -9,9 +9,9 @@ public:
         this->k=k;
         for(int score:nums){
             minHeap.push(score);
+            if(minHeap.size()>k)minHeap.pop();
         }
     }
-    
     int add(int val) {
         minHeap.push(val);
         while(minHeap.size()>k){
