@@ -14,9 +14,7 @@ public:
     }
     int add(int val) {
         minHeap.push(val);
-        while(minHeap.size()>k){
-            minHeap.pop();
-        }
+        if(minHeap.size()>k)minHeap.pop();
         return minHeap.top();
     }
 };
