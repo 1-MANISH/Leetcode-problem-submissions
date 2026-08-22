@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0146-lru-cache) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0148-sort-list) |
+| [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
