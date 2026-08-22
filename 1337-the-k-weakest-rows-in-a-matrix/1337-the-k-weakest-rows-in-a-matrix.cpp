@@ -5,7 +5,7 @@ class Solution {
 public:
     vector<int> kWeakestRows(vector<vector<int>>& mat, int k) {
         MaxHeap<pair<int,int>>mxHeap;//{solderCount,rowIndex};
-        vector<int>weekestRows;
+        vector<int>weekestRows(k);
         int m = mat.size() , n =mat[0].size();
         for(int i = 0 ;i < m ; i++){
             int solderCount=0;
@@ -15,11 +15,10 @@ public:
                 mxHeap.pop();
             }
         }
-        while(!mxHeap.empty()){
-            weekestRows.push_back(mxHeap.top().second);
+        for(int i = k-1 ; i>=0 ; i--){
+            weekestRows[i]=mxHeap.top().second;
             mxHeap.pop();
         }
-        reverse(weekestRows.begin(),weekestRows.end());
         return weekestRows;
     }
 };
