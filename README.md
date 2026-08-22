@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0901-online-stock-span) |
 | [0232-implement-queue-using-stacks](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0031-next-permutation) |
 | [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0901-online-stock-span) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Matrix
 |  |
 | ------- |
