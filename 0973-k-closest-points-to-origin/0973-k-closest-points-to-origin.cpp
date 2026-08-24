@@ -1,28 +1,35 @@
-
 struct Data{
     vector<int>point;
     float distance;
 };
+struct CompareFunction{
+    bool operator()(const Data&a,const Data&b){
+        if(a.distance==b.distance){
+           if(a.point[0]==b.point[0])return a.point[1]>b.point[1];
+           else  return a.point[0]>b.point[0];
+        }
+        return a.distance<b.distance;// max distanct at top
+    }
+};
+
 class Solution {
 public:
-    static bool compare(Data &a,Data &b){
-        if(a.distance==b.distance){
-            if(a.point[0]==b.point[0]) return a.point[1]>b.point[1];
-            else return a.point[0]>b.point[0];
-        }
-        else return a.distance<b.distance;
-    }
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        vector<Data>distance;
-        for(auto &point:points){
-            int x = point[0],y=point[1];
-            float dist = sqrt(x*x+y*y);
-            distance.push_back({point,dist});
+
+        priority_queue<Data,vector<Data>,CompareFunction>maxHeap;//based on distance
+
+        for(auto point:points){
+            float x = point[0], y = point[1];
+            float origin_distance = sqrt(x*x + y*y);
+            maxHeap.push({point,origin_distance});
+            if(maxHeap.size()>k){
+                maxHeap.pop();// maximum distance point removal
+            }
         }
-        sort(distance.begin(),distance.end(),compare);
-        vector<vector<int>>answer;
-        for(int i = 0 ; i < k ; i++){
-            answer.push_back(distance[i].point);
+        vector<vector<int>>answer;// points closest to origin as per distance
+        while(!maxHeap.empty()){
+            answer.push_back(maxHeap.top().point);
+            maxHeap.pop();
         }
         return answer;
     }
