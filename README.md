@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0031-next-permutation) |
 | [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -434,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
