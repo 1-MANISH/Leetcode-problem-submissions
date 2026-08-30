@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
+| [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
+| [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
