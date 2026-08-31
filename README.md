@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 | [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0057-insert-interval) |
+| [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 | [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
+| [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -449,4 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
