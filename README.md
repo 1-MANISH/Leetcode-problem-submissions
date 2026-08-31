@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 | [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |
