@@ -15,7 +15,7 @@ public:
             }else{
                 //  overlap done - 
                 // either - no further overlap also - need to insert here
-                if((s1 < s2 && e1 < e2 && overlap!=10) || overlap==1 ){
+                if((s1 < s2 && e1 < e2 && overlap!=10)){
                     output.push_back({s1,e1});
                     overlap=10;
                 }
