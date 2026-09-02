@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0057-insert-interval) |
 | [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 | [0056-merge-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0056-merge-intervals) |
 | [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Monotonic Stack
 |  |
 | ------- |
