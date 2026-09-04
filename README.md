@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0057-insert-interval) |
 | [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1024-video-stitching](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1024-video-stitching) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1024-video-stitching](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1024-video-stitching) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0881-boats-to-save-people) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1024-video-stitching](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1024-video-stitching) |
 ## Monotonic Stack
 |  |
 | ------- |
