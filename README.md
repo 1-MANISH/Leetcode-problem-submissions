@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0135-candy](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0135-candy) |
 | [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1024-video-stitching) |
 | [0435-non-overlapping-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
