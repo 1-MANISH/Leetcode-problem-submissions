@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1024-video-stitching) |
 | [0435-non-overlapping-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0135-candy](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0135-candy) |
+| [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1024-video-stitching](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1024-video-stitching) |
 | [0435-non-overlapping-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0435-non-overlapping-intervals) |
+| [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
 ## Tree
 |  |
 | ------- |
