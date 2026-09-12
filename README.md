@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0135-candy) |
 | [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0630-course-schedule-iii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0630-course-schedule-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0435-non-overlapping-intervals) |
+| [0630-course-schedule-iii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0630-course-schedule-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0023-merge-k-sorted-lists](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
+| [0630-course-schedule-iii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0630-course-schedule-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1024-video-stitching) |
 | [0435-non-overlapping-intervals](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0135-candy](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0135-candy) |
+| [0630-course-schedule-iii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0630-course-schedule-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
