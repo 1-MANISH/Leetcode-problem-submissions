@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0072-edit-distance) |
+| [0583-delete-operation-for-two-strings](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0583-delete-operation-for-two-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0006-zigzag-conversion) |
 | [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0072-edit-distance) |
+| [0583-delete-operation-for-two-strings](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0583-delete-operation-for-two-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -504,4 +506,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
