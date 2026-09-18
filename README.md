@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
+| [0072-edit-distance](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0072-edit-distance) |
 ## Binary Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0012-integer-to-roman) |
 | [0006-zigzag-conversion](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0006-zigzag-conversion) |
 | [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
+| [0072-edit-distance](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0072-edit-distance) |
 ## Greedy
 |  |
 | ------- |
