@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0012-integer-to-roman) |
 | [0006-zigzag-conversion](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0006-zigzag-conversion) |
+| [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -496,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1094-car-pooling) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
