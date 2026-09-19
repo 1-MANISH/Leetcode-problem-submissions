@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0509-fibonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -525,4 +527,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
