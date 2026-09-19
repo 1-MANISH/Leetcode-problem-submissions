@@ -1,9 +1,8 @@
 
-const int N = 1000 + 10;
+const int N = 1002;
+int dp[N];
 
 class Solution {
-
-    int dp[N];
 
 public:
     int minCost(int step, int n, vector<int>& cost) {
@@ -20,7 +19,6 @@ public:
         if (step + 2 <= n) {
             ans2 = cost[step + 2] + minCost(step + 2, n, cost);
         }
-
         return dp[step] =  min(ans1, ans2);
     }
     int minCostClimbingStairs(vector<int>& cost) {
@@ -31,11 +29,7 @@ public:
         for(int i = 1 ; i<=n ;i++){
             newCost[i]=cost[i-1];
         }
-        
-        for (int i = 0; i <= n + 1; i++) {
-            dp[i] = -1;
-        }
-        
+        memset(dp,-1,sizeof dp);
         return minCost(0, n + 1, newCost);
     }
 };
