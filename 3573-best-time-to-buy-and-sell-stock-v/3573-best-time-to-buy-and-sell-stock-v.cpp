@@ -22,7 +22,7 @@ class Solution {
         }
 
         long long  ans1 ,ans2,ans3;
-        ans1=ans2=ans3=LONG_MIN;
+        ans1=ans2=ans3=INT_MIN;
 
         // skip this day
 
