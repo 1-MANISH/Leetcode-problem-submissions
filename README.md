@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0115-distinct-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [0115-distinct-subsequences](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0115-distinct-subsequences) |
 ## Greedy
 |  |
 | ------- |
