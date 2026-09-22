@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0198-house-robber](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0213-house-robber-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0115-distinct-subsequences) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Binary Search
 |  |
 | ------- |
