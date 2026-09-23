@@ -11,7 +11,7 @@ class Solution {
         if(i==s.size())return 0;
 
         if(dp[i][j]!=-1)return dp[i][j];
-        // not take
+        // not takeshort
 
         int ans1  = solve(i+1,j,s,t);
 
