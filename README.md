@@ -535,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
