@@ -1,11 +1,10 @@
+// BRUTE FORCE -  TC  = O^3 | SC  = O(1)
+// RECURSIVE   -   TC  = O^3 | SC  = O(N)
+
 class Solution {
     bool isPal(int i,int j,string &s){
-        while(i<j){
-            if(s[i]!=s[j])return false;
-            i++;
-            j--;
-        }
-        return true;
+        if(i>=j)return true;
+        return s[i]==s[j] and isPal(i+1,j-1,s);
     }
 public:
     string longestPalindrome(string s) {
