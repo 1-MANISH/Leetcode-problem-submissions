@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
+| [0062-unique-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0062-unique-paths) |
 ## Counting
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0115-distinct-subsequences) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [1092-shortest-common-supersequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1092-shortest-common-supersequence) |
+| [0062-unique-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0062-unique-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -539,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
