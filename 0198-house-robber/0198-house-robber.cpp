@@ -1,30 +1,39 @@
-const int N = 1e2;
-int dp[N];
+/*
+    RECURSIVE :
+        index = 0 to n
+    TABULATION :
+        index  =  n to 0
+*/
 
 class Solution {
 
-    int solve(int index,vector<int>&nums){
-
-        // base case
-        if(index>=nums.size()){
-            return 0;
-        }
-
-        if(dp[index]!=-1){
-            return dp[index];
-        }
-
-        // lets not choose this house - try to get from next home
-        int ans1 = solve(index+1,nums);
-
-        // lets choose this ith index house- mean rob this one
-        int ans2 = nums[index]+solve(index+2,nums);
-
-        return dp[index] =  max(ans1,ans2);
-    }
 public:
     int rob(vector<int>& nums) {
-        memset(dp,-1,sizeof dp);
-        return solve(0,nums);
+
+        int n  =  nums.size() ;
+
+        vector<int>dp(n+2);
+
+        for(int index = n ; index >= 0; index--){
+
+            int &ans = dp[index];
+
+            // base case
+            if(index>=n){
+                ans =  0;
+                continue;
+            }
+
+            // not take it
+            int ans1 = dp[index+1];
+
+            // take it
+            int ans2 = nums[index] + dp[index+2];
+
+            ans =  max(ans1,ans2);
+
+        }
+
+        return dp[0];
     }
 };
