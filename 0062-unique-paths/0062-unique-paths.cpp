@@ -1,33 +1,41 @@
-const int N = 1e2;
-const int M = 1e2;
 
-int dp[N][M];
+/*
+RECURSIVE = 
+    i   = 0 ---> N
+    j   = 0 ---> M
+TABULATION =
+    i = N ---> 0
+    j = M ---> 0
+*/
 
 class Solution {
-
-    int solve(int i,int j,int &n,int &m){
-
-        //base case
-        if(i==n-1 and j==m-1){
-            return 1;
-        }
-        if(i>=n or j>=m){
-            return 0;
-        }
-
-        if(dp[i][j]!=-1)return dp[i][j];
-
-        // right 
-        int ans1 = solve(i,j+1,n,m);
-        // down
-        int ans2 = solve(i+1,j,n,m);
-
-        return dp[i][j] = ans1+ans2;
-    }
-
 public:
     int uniquePaths(int m, int n) {
-        memset(dp,-1,sizeof dp);
-        return solve(0,0,n,m);
+        
+        vector<vector<int>>dp(m+1,vector<int>(n+1));
+
+        for(int i = m ; i >= 0 ; i--){
+
+            for(int j = n ; j >= 0 ; j--){
+
+                int &ans = dp[i][j];
+                //base case
+                if(i==m-1 and j==n-1){
+                    ans =  1;
+                    continue;
+                }
+                if(i>=m or j>=n){
+                    ans =  0;
+                    continue;
+                }
+                // right 
+                int ans1 = dp[i][j+1];
+                // down
+                int ans2 = dp[i+1][j];
+
+                ans = ans1+ans2;
+            }
+        }
+        return dp[0][0];
     }
 };
