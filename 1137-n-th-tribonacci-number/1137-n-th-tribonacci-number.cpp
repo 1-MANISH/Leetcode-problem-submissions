@@ -1,25 +1,26 @@
-const int N = 38;
-int dp[N];
 
 class Solution {
-
-    int trib(int n){
-
-        if(n==0)return 0;
-
-        if(n<=2)return 1;
-
-        if(dp[n]!=-1)return dp[n];
-
-        return dp[n] =  trib(n-1)+trib(n-2)+trib(n-3);
-
-    }
 public:
     int tribonacci(int n) {
 
-        memset(dp,-1,sizeof dp);
+        vector<int>dp(n+1,0);
 
-        return trib(n);
-        
+        for(int i = 0 ; i <= n ; i++){
+
+            int &ans = dp[i];
+
+            if(i==0){
+                ans = 0 ;
+                continue;
+            }
+
+            if(i<=2){
+                ans = 1 ;
+                continue;
+            }
+
+            ans =  dp[i-1]+dp[i-2]+dp[i-3];
+        }
+        return dp[n];
     }
 };
