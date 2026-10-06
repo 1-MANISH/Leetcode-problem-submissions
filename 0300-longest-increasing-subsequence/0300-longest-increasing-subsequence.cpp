@@ -1,30 +1,17 @@
-const int N = 2500;
-int dp[N][N+1];
-
 
 class Solution {
-
-    int solve(int index,int prevIndex,vector<int>&nums){
-
-        // base cases
-        if(index==nums.size())
-            return 0;
-
-        if(dp[index][prevIndex]!=-1) return dp[index][prevIndex];
-
-        //not take 
-        int ans1 = solve(index+1,prevIndex,nums);
-
-        // take it - if possible to make increasing a < b only
-        int ans2 = 0 ;
-        if(prevIndex==nums.size() or nums[prevIndex] < nums[index])
-            ans2 = 1 + solve(index+1,index,nums);
-
-        return dp[index][prevIndex] = max(ans1,ans2);
-    }
 public:
     int lengthOfLIS(vector<int>& nums) {
-        memset(dp,-1,sizeof dp);
-        return solve(0,nums.size(),nums);
+        int n = nums.size();
+        vector<int>dp(n);
+        for(int i = 0 ; i < n ; i++){
+            dp[i] = 1; // single element form LIS
+            for(int j = i-1 ; j >= 0 ; j--){
+                if(nums[j] < nums[i]){
+                    dp[i] = max(dp[i],1+dp[j]);
+                }
+            }
+        }
+        return *max_element(dp.begin(),dp.end());
     }
 };
