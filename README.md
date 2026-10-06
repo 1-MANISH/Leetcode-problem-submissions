@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0213-house-robber-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [1092-shortest-common-supersequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1092-shortest-common-supersequence) |
 | [0062-unique-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0062-unique-paths) |
+| [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -545,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0062-unique-paths) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
