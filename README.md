@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0630-course-schedule-iii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
 ## Binary Indexed Tree
 |  |
 | ------- |
