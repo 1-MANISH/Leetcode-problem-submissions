@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Monotonic Stack
 |  |
 | ------- |
