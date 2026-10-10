@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -570,4 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
