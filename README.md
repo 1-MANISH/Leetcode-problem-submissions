@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -577,8 +579,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
