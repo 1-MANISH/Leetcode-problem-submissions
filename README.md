@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -580,9 +583,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
