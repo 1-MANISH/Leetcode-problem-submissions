@@ -11,7 +11,7 @@ public:
         }
         for(int node = 1 ; node <=n ; node++){
             if(adjList[node].size()==0){
-                int answer = 0 ;
+                int answer = 0 ; // just to check that everyone is trusting our town judge or not
                 for(auto &t:trust){
                     if(t[1]==node)answer++;
                 }
