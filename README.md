@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
+| [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -603,4 +605,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
