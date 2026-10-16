@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0494-target-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
+| [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [0115-distinct-subsequences](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0115-distinct-subsequences) |
 | [1092-shortest-common-supersequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1092-shortest-common-supersequence) |
+| [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -606,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
