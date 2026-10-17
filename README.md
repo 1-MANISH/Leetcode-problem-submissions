@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -603,11 +605,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
+| [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 ## String Matching
 |  |
 | ------- |
