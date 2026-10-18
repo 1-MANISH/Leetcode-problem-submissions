@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
 | [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1791-find-center-of-star-graph) |
 ## String Matching
 |  |
 | ------- |
