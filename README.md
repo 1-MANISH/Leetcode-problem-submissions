@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 | [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
