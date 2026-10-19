@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 | [0997-find-the-town-judge](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0997-find-the-town-judge) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0085-maximal-rectangle) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [0064-minimum-path-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0064-minimum-path-sum) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
