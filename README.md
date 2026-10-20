@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [0045-jump-game-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 | [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [0045-jump-game-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [0045-jump-game-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0045-jump-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
