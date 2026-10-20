@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0322-coin-change](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0322-coin-change) |
 | [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0115-distinct-subsequences) |
 | [1092-shortest-common-supersequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1092-shortest-common-supersequence) |
 | [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0334-increasing-triplet-subsequence](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
 |  |
 | ------- |
