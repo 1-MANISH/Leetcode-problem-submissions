@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
