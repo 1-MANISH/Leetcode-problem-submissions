@@ -7,7 +7,6 @@ public:
         q.push({sr,sc});
         visited[sr][sc]=true;
         image[sr][sc]=color;
-       
         while(!q.empty()){
             auto[r,c] = q.front();
             q.pop();
