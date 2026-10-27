@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0045-jump-game-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [0045-jump-game-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0045-jump-game-ii) |
+| [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
