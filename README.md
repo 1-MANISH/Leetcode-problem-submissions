@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 ## Backtracking
 |  |
 | ------- |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
@@ -651,8 +654,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 ## String Matching
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1668-maximum-repeating-substring) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
