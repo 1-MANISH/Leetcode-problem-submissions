@@ -5,17 +5,23 @@ const int RED = 1;
 class Solution {
 
     bool isBip(int node,vector<vector<int>>& adj,vector<int>&color,int c){
-        color[node]=c;
+        queue<int>q;
+        q.push({node});
+        color[node]=RED;
 
-        for(int &neb:adj[node]){
-            if(color[neb]==WHITE){
-                bool ans = isBip(neb,adj,color,-1*c);
-                if(ans==false)return false;
-            }else if(color[neb]==color[node]){
-                return false;
+        while(!q.empty()){
+            int c_node = q.front();
+            q.pop();
+
+            for(int &neb:adj[c_node]){
+                if(color[neb]==WHITE){ //not visited
+                    q.push(neb);
+                    color[neb] = color[c_node]==RED ? BLUE : RED;
+                }else if(color[neb]==color[c_node]){ // conflict with 
+                    return false;
+                }
             }
-        }
-
+       }
         return true;
 
     }
