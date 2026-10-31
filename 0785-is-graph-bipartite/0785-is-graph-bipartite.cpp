@@ -27,7 +27,7 @@ public:
         for(int node = 0; node < n ;  node++){
             if(color[node]==WHITE){
                 bool ans = isBip(node,adj,color,RED);
-                if(!ans)return false;
+                if(ans==false)return false;
             }
         }
 
