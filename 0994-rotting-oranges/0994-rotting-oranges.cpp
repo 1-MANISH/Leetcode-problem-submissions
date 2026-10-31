@@ -15,13 +15,10 @@ public:
         }
         
         int timer = 0 ;
-        // now paralley trying to rotten all possible oranges with each unit time ,gradually increasing
-        
-                
+        // now paralley trying to rotten all possible oranges with each unit time ,gradually increasing 
         int rows[4] = {0,-1,0,+1};
         int cols[4] = {-1,0,+1,0};
         while(!q.empty()){
-         
             int t = q.front().first;
             int r = q.front().second.first;
             int c = q.front().second.second;
