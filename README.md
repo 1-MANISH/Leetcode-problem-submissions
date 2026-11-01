@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0733-flood-fill) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 ## Binary Tree
 |  |
 | ------- |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 ## Backtracking
 |  |
 | ------- |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 ## String Matching
 |  |
 | ------- |
@@ -663,8 +667,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
