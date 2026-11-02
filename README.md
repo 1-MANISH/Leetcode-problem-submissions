@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
+| [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [0070-climbing-stairs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0062-unique-paths) |
+| [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Counting
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
+| [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
+| [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Backtracking
 |  |
 | ------- |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## K-D Tree
 |  |
 | ------- |
@@ -659,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [0785-is-graph-bipartite](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
+| [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 ## String Matching
 |  |
 | ------- |
