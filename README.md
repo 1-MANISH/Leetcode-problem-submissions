@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [0207-course-schedule](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0210-course-schedule-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [0207-course-schedule](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0210-course-schedule-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0886-possible-bipartition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [0207-course-schedule](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0210-course-schedule-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/1-MANISH/Leetcode-problem-submissions/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
